@@ -6,9 +6,9 @@
     "link": ""
   },
   {
-    "nome": "Template de relatório de incidente",
-    "descricao": "Modelo pronto para documentar evidências, linha do tempo e recomendação de remediação.",
-    "status": "em breve",
-    "link": ""
-  }
+  "nome": "Guia de logs do Windows para Blue Team",
+  "descricao": "Passo a passo para ativar auditoria avançada, PowerShell logging e Sysmon no Windows 10 e 11, com comandos prontos e coleta para o SIEM.",
+  "status": "disponível",
+  "link": "m4r3ux.github.io/tools/logs-do-windows-para-blue-team"
+}
 ]
