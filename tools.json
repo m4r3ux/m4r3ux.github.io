@@ -1,0 +1,14 @@
+[
+  {
+    "nome": "Checklist de triagem de alertas N1",
+    "descricao": "Passo a passo para classificar alertas, separar falso positivo e decidir quando escalar.",
+    "status": "em breve",
+    "link": ""
+  },
+  {
+    "nome": "Template de relatório de incidente",
+    "descricao": "Modelo pronto para documentar evidências, linha do tempo e recomendação de remediação.",
+    "status": "em breve",
+    "link": ""
+  }
+]

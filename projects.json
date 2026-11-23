@@ -1,0 +1,26 @@
+[
+  {
+    "titulo": "Elastic SIEM Home Lab",
+    "periodo": "mai. 2026 – atual",
+    "status": "em andamento",
+    "descricao": "Elasticsearch e Kibana em Ubuntu Server, com endpoint Windows 10 monitorado por Sysmon e Winlogbeat e um host Linux para hunting. Ataques simulados e mapeados ao MITRE ATT&CK, com detecções em KQL: brute force (4625), PowerShell ofuscado (4104), reconhecimento (whoami /all), criação de conta e persistência (4720/4732). Dashboards no Kibana e documentação no formato SOC Tier 1.",
+    "tags": ["SIEM", "Elastic", "KQL", "MITRE ATT&CK", "Sysmon"],
+    "link": ""
+  },
+  {
+    "titulo": "Splunk SOC Home Lab",
+    "periodo": "out. 2026 – atual",
+    "status": "em andamento",
+    "descricao": "Splunk Enterprise (instância local) recebendo logs de uma VM Ubuntu Server pelo Splunk Forwarder. Ingestão configurada, com detecções e alertas criados em SPL. Em evolução: novos cenários de investigação.",
+    "tags": ["SIEM", "Splunk", "SPL", "Linux"],
+    "link": ""
+  },
+  {
+    "titulo": "Phishing Analysis Lab",
+    "periodo": "set. 2026 – atual",
+    "status": "documentado",
+    "descricao": "Triagem de um e-mail de phishing real que se passava pela Apple: cabeçalho, SPF/DKIM/DMARC, URL atrás de encurtador e reputação do domínio no VirusTotal. O SPF passou porque o atacante usou domínio próprio: a autenticação valida a origem, não a confiança do remetente. Resultado em relatório de incidente com evidências.",
+    "tags": ["Phishing", "E-mail", "VirusTotal", "Relatório"],
+    "link": ""
+  }
+]
